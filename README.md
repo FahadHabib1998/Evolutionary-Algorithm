@@ -18,3 +18,5 @@ We run three scenario, this is project. Firstly, Binary Maximizer which takes a 
 Second, String Generation (Weasel Class), which takes a string as an input from the user. Then produces that string using the algorithm. 
 
 Lastly, The mathematical equation generator (Math Class), generates a mathematical equation o length entered by the user which equates to a. Particular target that is also set by the user.
+
+Marks Obtained: 100/100
